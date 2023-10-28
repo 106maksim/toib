@@ -27,5 +27,5 @@
 ![2аут1](https://github.com/106maksim/toib/assets/71127999/ad506867-1728-4da9-81b9-63fe5f999e8a)
 # Вход через keycloak после подключения двухфакторной аутентификации
 ![2аут2](https://github.com/106maksim/toib/assets/71127999/8aa9fc71-5d93-496d-8878-1eabffa9ed75)
-# Повторное вход
+# Повторный вход
 ![2аут3](https://github.com/106maksim/toib/assets/71127999/db2ed7ee-9b8f-4a8a-8cf9-520d221e4133)
