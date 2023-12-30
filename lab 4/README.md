@@ -1,15 +1,15 @@
 # Лабораторная работа №4. Настройка и применение криптографических протоколов
 Выполнил Куров Максим Вадимович ББМО-01-23
 ## 1. Создание ключевой пары GPG
-![image](https://github.com/106maksim/toib/assets/71127999/9a79a883-58b0-4aac-8d16-7d2fc6cb628e)
-![image](https://github.com/106maksim/toib/assets/71127999/b4436c68-1bfb-40b9-8607-0ef7beb40cfa)
+![gnu1](https://github.com/106maksim/toib/assets/71127999/948a80e8-6f00-4ab4-a0e5-5e5356e7bd51)
+![gnu2](https://github.com/106maksim/toib/assets/71127999/09e8d8cb-0001-47ae-912b-91d2aee75d76)
 ## 2. Просмотр созданных ключей, подписей, отпечатков
-![image](https://github.com/106maksim/toib/assets/71127999/05fcc42e-9735-4b16-9538-268ba8cfafac)
+![просмотр](https://github.com/106maksim/toib/assets/71127999/65a5f1fc-c458-455d-88a6-89a1dc6a6629)
 ## 3. Создание отзывающего сертификата
 3.1 Вывод сертификата в 'stdout':
-![image](https://github.com/106maksim/toib/assets/71127999/bfb29cb7-668e-4607-875a-6883649e8af8)
+![отз серт1](https://github.com/106maksim/toib/assets/71127999/30751648-80eb-4dfb-91f9-394a5f2ab1ea)
 3.2 Запись сертификата в файл:
-![image](https://github.com/106maksim/toib/assets/71127999/10d4c85a-5c13-4aa8-9267-5af16faf0dc6)
+![отз серт2](https://github.com/106maksim/toib/assets/71127999/caae308d-6242-42e2-b873-5568ac30ab95)
 ![отз серт3](https://github.com/106maksim/toib/assets/71127999/a9932f8f-c350-4f55-8a38-32f6886e5a1d)
 ## 4. Экспорт публичного ключа в бинарном и текстовом виде
 ![экспорт1](https://github.com/106maksim/toib/assets/71127999/63fd905e-6dc9-40ad-bb5c-af4e2e9be99b)
